@@ -4,6 +4,8 @@
 
 - <b>Microsoft Azure (VM Creation And Network Filesharing)</b>
   - [: Simple Fileshare Tutorial](https://github.com/wrhoderick/VM-Creation)
+- <b>Microsoft Azure (VM Creation And osTicket Installation)</b>
+  - [: Simple osTicket Installation Guide](https://github.com/wrhoderick/osTicket)
  
 <h2>🤳Connect with me:</h2>
 
